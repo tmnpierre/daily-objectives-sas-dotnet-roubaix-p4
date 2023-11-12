@@ -2,4 +2,4 @@
 
 ## Vendredi 03/11/2023
 
-- [ ] Finaliser les jours 7 et 8
+- [x] Finaliser les jours 7 et 8
