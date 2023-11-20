@@ -4,5 +4,5 @@
 
 ### Codewars
 
-- [ ] S'inscrire sur la plateforme https://www.codewars.com/
-- [ ] Commencer Le challenge "C'est la Katastrophe"
+- [x] S'inscrire sur la plateforme https://www.codewars.com/
+- [x] Commencer Le challenge "C'est la Katastrophe"
