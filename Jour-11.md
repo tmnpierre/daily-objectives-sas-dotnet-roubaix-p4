@@ -4,4 +4,4 @@
 
 ### Brief
 
-- [ ] Travailler sur le brief [Collaboration pour la rédaction de Cheat Sheets](https://simplonline.co/briefs/f0fc3f54-662a-4930-bcdf-96cf58adbaaf)
+- [x] Travailler sur le brief [Collaboration pour la rédaction de Cheat Sheets](https://simplonline.co/briefs/f0fc3f54-662a-4930-bcdf-96cf58adbaaf)
