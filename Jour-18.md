@@ -1,6 +1,6 @@
 # Objectifs journaliers Sas Dot-Net Roubaix P4
 
-## Mardi 14/11/2023
+## Jeudi 16/11/2023
 
 ### Codewars
 
