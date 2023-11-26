@@ -82,9 +82,7 @@ Here is the Daily calendar available in this repository, sorted by date:
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LunarVim](https://img.shields.io/badge/LunarVim-%231572B6.svg?style=for-the-badge&logo=lunarvim&logoColor=white)
-![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-%23181717.svg?style=for-the-badge&logo=github&logo
-
-Color=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitFlow](https://img.shields.io/badge/GitFlow-%2300814F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Description (FR)
