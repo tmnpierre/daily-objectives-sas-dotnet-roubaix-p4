@@ -9,11 +9,9 @@
 - [Description (EN)](#description-en)
 - [Objectives (EN)](#objectives-en)
 - [Daily Calendar (EN)](#daily-calendar-en)
-- [Badges (EN)](#badges-en)
 - [Description (FR)](#description-fr)
 - [Objectifs (FR)](#objectifs-fr)
 - [Calendrier des Dailys (FR)](#calendrier-des-dailys-fr)
-- [Badges (FR)](#badges-fr)
 
 ## Description (EN)
 This GitHub repository is used as part of my training with Simplon. Every day, our trainer adds a .md file containing the day's objectives in the form of a Daily.
