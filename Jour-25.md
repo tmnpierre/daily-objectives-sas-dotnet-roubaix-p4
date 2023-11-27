@@ -4,19 +4,19 @@
 
 ### Programmation Orientée Objets :
 
-- [ ] Découvrir les concepts fondamentaux de la `POO` :
-  - [ ] Objets
-  - [ ] Attributs
-  - [ ] Méthodes
-  - [ ] Classes
-  - [ ] Constructeurs
-  - [ ] Héritage
-  - [ ] Encapsulation
-  - [ ] Abstraction
-    - [ ] Interfaces
-  - [ ] Polymorphisme
+- [x] Découvrir les concepts fondamentaux de la `POO` :
+  - [x] Objets
+  - [x] Attributs
+  - [x] Méthodes
+  - [x] Classes
+  - [x] Constructeurs
+  - [x] Héritage
+  - [x] Encapsulation
+  - [x] Abstraction
+    - [x] Interfaces
+  - [x] Polymorphisme
 
 ### TypeScript :
 
-- [ ] Découvrir la surcouche `TypeScript`
+- [x] Découvrir la surcouche `TypeScript`
 

@@ -4,4 +4,4 @@
 
 ### PostgreSQL :
 
-- [ ] Finaliser la mise en place de la base de données fournie la veille
+- [x] Finaliser la mise en place de la base de données fournie la veille
