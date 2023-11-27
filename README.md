@@ -75,6 +75,10 @@ Here is the Daily calendar available in this repository, sorted by date:
   - [Daily for 22/11/2023](Jour-22.md)
 - **Day 23 (23/11/2023)**
   - [Daily for 23/11/2023](Jour-23.md)
+- **Day 24 (24/11/2023)**
+  - [Daily for 24/11/2023](Jour-24.md)
+- **Day 25 (27/11/2023)**
+  - [Daily for 27/11/2023](Jour-25.md)
 
 # Daily Objectives - SAS .NET Roubaix - Promotion 4 (Version Française)
 
@@ -145,3 +149,7 @@ Voici le calendrier des Dailys disponibles dans ce dépôt, classés par date :
   - [Daily du 22/11/2023](Jour-22.md)
 - **Jour 23 (23/11/2023)**
   - [Daily du 23/11/2023](Jour-23.md)
+- **Jour 24 (24/11/2023)**
+  - [Daily du 24/11/2023](Jour-24.md)
+- **Jour 25 (27/11/2023)**
+  - [Daily du 27/11/2023](Jour-25.md)
