@@ -9,11 +9,9 @@
 - [Description (EN)](#description-en)
 - [Objectives (EN)](#objectives-en)
 - [Daily Calendar (EN)](#daily-calendar-en)
-- [Badges (EN)](#badges-en)
 - [Description (FR)](#description-fr)
 - [Objectifs (FR)](#objectifs-fr)
 - [Calendrier des Dailys (FR)](#calendrier-des-dailys-fr)
-- [Badges (FR)](#badges-fr)
 
 ## Description (EN)
 This GitHub repository is used as part of my training with Simplon. Every day, our trainer adds a .md file containing the day's objectives in the form of a Daily.
@@ -82,9 +80,7 @@ Here is the Daily calendar available in this repository, sorted by date:
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LunarVim](https://img.shields.io/badge/LunarVim-%231572B6.svg?style=for-the-badge&logo=lunarvim&logoColor=white)
-![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-%23181717.svg?style=for-the-badge&logo=github&logo
-
-Color=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitFlow](https://img.shields.io/badge/GitFlow-%2300814F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Description (FR)
