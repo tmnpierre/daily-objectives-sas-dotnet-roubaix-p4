@@ -25,8 +25,8 @@
 
 ## Code Tooling
 
-- [ ] Découvrir les linters et formaters
-  - [ ] Quelle est la différence entre un linter et un formater
-  - [ ] Quels sont les principaux outils les plus répandus ?
-  - [ ] Est-il préférable d'en installer en global sur la machine ou indépendémment sur chaque projet ?
+- [x] Découvrir les linters et formaters
+  - [x] Quelle est la différence entre un linter et un formater
+  - [x] Quels sont les principaux outils les plus répandus ?
+  - [x] Est-il préférable d'en installer en global sur la machine ou indépendémment sur chaque projet ?
 
