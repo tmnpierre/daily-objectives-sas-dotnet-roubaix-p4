@@ -6,10 +6,10 @@
 
 #### Base de données
 
-- [ ] Comprendre la différence entre chiffrement et cryptage
-- [ ] Comprendre le fonctionnement du hashage et du salage
-- [ ] Découvrir le principe de `UUID`
-- [ ] Découvrir le concept de migration 
+- [x] Comprendre la différence entre chiffrement et cryptage
+- [x] Comprendre le fonctionnement du hashage et du salage
+- [x] Découvrir le principe de `UUID`
+- [x] Découvrir le concept de migration 
 
 
 #### API
