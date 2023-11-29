@@ -32,6 +32,7 @@
     - [ ] Comprendre la différence entre "statefull" et "stateless"
     - [ ] Comprendre la différence entre `URL` et `URI`
     - [ ] Comprendre la différence entre "chemin relatif" et "chemin absolu"
+    - [ ] Comprendre ce qu'est une route dans une `API`
     - [ ] Comprendre ce qu'est un `ORM` et quelle différence avec un `ODM` ?
     - [ ] Comprendre ce qu'est un `Middleware`
 
