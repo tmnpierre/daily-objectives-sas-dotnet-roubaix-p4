@@ -4,4 +4,4 @@
 
 ### API :
 
-- [ ] [Enjoy](https://github.com/Simplon-hdf/E-Commerce-API-NestJS-Workshop)
+- [x] [Enjoy](https://github.com/Simplon-hdf/E-Commerce-API-NestJS-Workshop)
